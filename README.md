@@ -1,76 +1,46 @@
-# Project-1
-## Proposal
-- topic and why you chose it
-  - Stock vs Fuel Prices
-    - Because its all the hubub right now
-    - 
-- initial questions for data (at least 3)
-  - how is over all market affected by price of oil
-  - how are vehicle stocks affected by price of oil
-  - ev stock vs hybrid vs gas cars stock / price of oil
-    - if that doesnt work sales not stock
+# ATOMS UNDER HIGHLIGHT PROJECT PROPOSAL
+### Group Members: Christina Saenz / John Carmona / Mark Osowski
+
+## Analysis of Vehicle Sales and Stock Prices vs. The Price of Oil
+
+- Topic and why we chose it
+  - Vehicle Stocks (and sales) vs Price of Oil
+    - Because EVs and Oil Prices are two of the most debated global topics and news stories right now.
+- Initial questions for data (at least 3)
+  - Is there a strong correlation between Vehicle Sales and the Price of Oil?
+  - Does the correlation change between different subcategories(EVs, Hybrids, Gas) of Vehicles and the Price of Oil?
+  - Is consumer setiment correlated with the price of oil?
 - Is there a relationship between… ?
   - the price of oil and stock market
 - Can we predict… ?
   - the price of stock at a randomly selected price of oil
 - What can the data tell us about… ?
-  - does price of oil actually affect consumer setiment ("sales of ev, hybrid, gas (vehicles)")
-  - Do ev's simply cost to much?
-  - Are the savings on gas prices actually greater than the cost of an ev?
-  - 
-initial data sources (at least 2)
-group member roles/strengths and assignment of initial tasks. Some examples:
+  - How strongly the correlation is between the price of oil and different types of vehicle sales
+- Initial data sources (at least 2)
+  - https://www.kaggle.com/datasets/gagandeep16/car-sales
+  - https://ourworldindata.org/grapher/crude-oil-prices
 
-pandas guru - will be responsible for finalizing data cleaning tasks
-- Christy
-  - mark and john 
-  
-matplotlib expert - will be responsible for creating visualizations
-- John
-  - mark and john
-  
-API enthusiast - will be responsible for data acquisition
-- John
+## Group member roles/strengths and assignment of initial tasks. Some examples:
+- Pandas guru - will be responsible for finalizing data cleaning tasks
+  - Christy
+    - Mark and John 
+- Matplotlib expert - will be responsible for creating visualizations
+  - John
+    - Mark  
+- API enthusiast - will be responsible for data acquisition
+  - John
+- Github power user - will be responsible for creating the group repo and merging pull requests
+  - Mark
+- Statistician extraordinaire - will be responsible for finalizing analytical findings and backing up analysis with statistical tests
+  - Mark
+- Master of ceremonies - will be responsible for finalizing the presentation slides
+  - Christy
+- Project management specialist - will be responsible for arranging group meetings, presenting reports, and keeping everyone moving
+  - Mark  
 
-github power user - will be responsible for creating the group repo and merging pull requests
-- Mark
-
-statistician extraordinaire - will be responsible for finalizing analytical findings and backing up analysis with statistical tests
-- Mark
-
-master of ceremonies - will be responsible for finalizing the presentation slides
-- Christy
-
-project management specialist - will be responsible for arranging group meetings, presenting reports, and keeping everyone moving
-- Mark
-
-Data acquisition and cleaning
-
-Process of finding data
-- 
-- 
--
-Process of acquiring data
-- Kaggle 
-- Rapid API
-- 
-Process of cleaning data
-- Pandas
-
-Link to final version of data cleaning jupyter notebook in main branch on repo
-
-Analysis and Conclusions
-6-8 visualizations
-text that explains the story of the visualization
-analytical answers to proposal questions
-statistical backup
-link to analysis jupyter notebook in main branch on repo
-Links and Resources
+## Links and Resources
 - https://www.alphavantage.co/documentation/
 - https://api.carsxe.com/vehicle-market-value
 - https://rapidapi.com/competitive-intelligence-solutions-llc-competitive-intelligence-solutions-llc-default/api/cis-automotive/
 - https://www.oilpriceapi.com/
-- 
-final data sources
-link to presentation
-additional resources that were helpful or tools use
+
