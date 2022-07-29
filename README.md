@@ -18,30 +18,30 @@
   - Do ev's simply cost to much?
   - Are the savings on gas prices actually greater than the cost of an ev?
   - 
-## initial data sources (at least 2)
-## group member roles/strengths and assignment of initial tasks. Some examples:
+initial data sources (at least 2)
+group member roles/strengths and assignment of initial tasks. Some examples:
 
-## pandas guru - will be responsible for finalizing data cleaning tasks
+pandas guru - will be responsible for finalizing data cleaning tasks
 - Christy
   - mark and john 
   
-## matplotlib expert - will be responsible for creating visualizations
+matplotlib expert - will be responsible for creating visualizations
 - John
   - mark and john
   
-## API enthusiast - will be responsible for data acquisition
+API enthusiast - will be responsible for data acquisition
 - John
 
-## github power user - will be responsible for creating the group repo and merging pull requests
+github power user - will be responsible for creating the group repo and merging pull requests
 - Mark
 
-## statistician extraordinaire - will be responsible for finalizing analytical findings and backing up analysis with statistical tests
+statistician extraordinaire - will be responsible for finalizing analytical findings and backing up analysis with statistical tests
 - Mark
 
-## master of ceremonies - will be responsible for finalizing the presentation slides
+master of ceremonies - will be responsible for finalizing the presentation slides
 - Christy
 
-## project management specialist - will be responsible for arranging group meetings, presenting reports, and keeping everyone moving
+project management specialist - will be responsible for arranging group meetings, presenting reports, and keeping everyone moving
 - Mark
 
 Data acquisition and cleaning
@@ -66,6 +66,11 @@ analytical answers to proposal questions
 statistical backup
 link to analysis jupyter notebook in main branch on repo
 Links and Resources
+- https://www.alphavantage.co/documentation/
+- https://api.carsxe.com/vehicle-market-value
+- https://rapidapi.com/competitive-intelligence-solutions-llc-competitive-intelligence-solutions-llc-default/api/cis-automotive/
+- https://www.oilpriceapi.com/
+- 
 final data sources
 link to presentation
 additional resources that were helpful or tools use
