@@ -38,9 +38,3 @@
 - Project management specialist - will be responsible for arranging group meetings, presenting reports, and keeping everyone moving
   - Mark  
 
-## Links and Resources
-- https://www.alphavantage.co/documentation/
-- https://api.carsxe.com/vehicle-market-value
-- https://rapidapi.com/competitive-intelligence-solutions-llc-competitive-intelligence-solutions-llc-default/api/cis-automotive/
-- https://www.oilpriceapi.com/
-
