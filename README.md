@@ -1,4 +1,4 @@
-# aTOMS UNDER HIGHLIGHT PROJECT PROPOSAL
+# ATOMS UNDER HIGHLIGHT PROJECT PROPOSAL
 ### Group Members: Christina Saenz / John Carmona / Mark Osowski
 
 ## Analysis of Vehicle Sales and Stock Prices vs. The Price of Oil
