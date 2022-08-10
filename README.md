@@ -73,7 +73,6 @@
   - It should be noted that EV Vehicles only recently became accessible to the general public with in the last 10 years. With this in mind, it is possible that as EV's continue to become more popular and available that the correlation between the stock price of major EV production companies and cost of oil will continue to strengthen. We would suggest revisiting this analysis in 2-5 years to re-evaluation the correlation. 
   - Address availability of charging stations, unfrastructure supporting EVs and technology in regards increased positive correlation of stock and oil price
 
-
 - What can the data tell us about… ?
   - How strongly the correlation is between the price of oil and different types of vehicle sales
 
