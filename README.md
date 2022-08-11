@@ -17,12 +17,9 @@
 - What can the data tell us about… ?
   - How strongly the correlation is between the price of oil and different types of vehicle sales
 - Initial data sources (at least 2)
-  - https://www.kaggle.com/datasets/gagandeep16/car-sales
-  - https://ourworldindata.org/grapher/crude-oil-prices
-  - https://www.alphavantage.co/documentation/
-  - https://rapidapi.com/competitive-intelligence-solutions-llc-competitive-intelligence-solutions-llc-default/api/cis-automotive/
-  - https://api.carsxe.com/vehicle-market-value
-  - https://www.oilpriceapi.com/
+  - https://data.nasdaq.com/tools/api
+  - https://pypi.org/project/yfinance/
+  - https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/electric-vehicle-etfs/
 
 ## Group member roles/strengths and assignment of initial tasks. Some examples:
 - Pandas guru - will be responsible for finalizing data cleaning tasks
